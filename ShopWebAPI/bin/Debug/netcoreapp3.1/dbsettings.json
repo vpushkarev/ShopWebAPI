@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=WORKPC439\\SQLEXPRESS;Database=Shop;Trusted_Connection=True;MultipleActiveResultSets=true"
+  }
+}
+//(localdb)\\MSSQLLocalDB
